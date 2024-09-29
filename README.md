@@ -1,9 +1,5 @@
 # RAG-Enabled Search Engine
 
-🔎 A Retrieval-Augmented Generation (RAG) search engine that allows users to ask research-related questions and retrieve accurate information from Arxiv, Wikipedia, and DuckDuckGo.
-
-## Overview
-
 This interactive AI assistant leverages the power of **Llama 2** combined with Retrieval-Augmented Generation techniques. Users can engage in a conversation about Machine Learning, AI, or recent research papers, and receive relevant information in real time.
 
 ## Features
